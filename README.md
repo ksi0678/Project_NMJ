@@ -4,7 +4,7 @@
 
 <div>
   <h1>프로젝트 놀먹자</h1>
-  <a href="https://github.com/ksi0678/Project_NMJ/files/5488552/_QNA_.pdf">놀먹자</a>
+  <a href="https://github.com/ksi0678/Project_NMJ/files/5488552/_QNA_.pdf">놀먹자 PDF 링크</a>
   <h3>프로젝트 기간</h3>
   <h5>2020.02.05 ~ 2020.03.10</h5>
 </div>
